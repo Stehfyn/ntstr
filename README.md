@@ -1,0 +1,2 @@
+# ntstr
+NtSetTimerResolution daemon
